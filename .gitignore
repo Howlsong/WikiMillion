@@ -1,4 +1,23 @@
+# Generated Wikipedia archive
+WikiMillion/
 wikipedia.db
+
+# Generated URL manifest and Wikimedia API cache
 wikipedia_top_1m_urls.txt
 wikipedia_monthly_cache/
-WikiMillion/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local/editor junk
+.vscode/
+.idea/
+*.swp
+*~
